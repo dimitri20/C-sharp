@@ -12,7 +12,6 @@ namespace Calculator
         }
 
         static double value1;
-        static double value;
 
         static double calculateWithRecursion(List<string> lst, int i = 0)
         {
